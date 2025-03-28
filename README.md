@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrRichar02
-- 👀 I’m interested in the nix and Nixos
+- 👀 I’m interested in nix and Nixos
 - 🌱 I’m currently learning java, python and nix
 
 <!---
